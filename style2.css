@@ -1,0 +1,18 @@
+h1 {
+    color: red;
+}
+
+.h2b{
+    color: blue;
+}
+.h2o{
+    color: orange;
+}
+.pc {
+    text-align: center;
+}
+.pcb {
+    text-align: center;
+    color: blue;
+    font-weight: bold;
+}

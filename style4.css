@@ -1,0 +1,10 @@
+input[type=text] {
+    background-color:greenyellow;
+    width: 150px;
+    margin-bottom: 10px;
+}
+div >label:first-child {
+    color: orangered;
+    font-weight: bolder;
+    font-size: large;
+}
